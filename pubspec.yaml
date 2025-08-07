@@ -1,0 +1,29 @@
+name: launch_pad
+description: "Launch Pad Music App by mel-adna. Dive into a musical journey with interactive sound pads. Built with Flutter for cross-platform compatibility on Android, iOS, and Web. An engaging way to explore music creation!"
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.5.4 <5.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  audioplayers: ^6.0.0
+  google_fonts: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+  flutter_app_name: ^0.1.1
+flutter_app_name:
+  name: "LaunchPad"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
