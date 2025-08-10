@@ -22,7 +22,8 @@ This music app features interactive sound pads that create an engaging musical e
 
 ## Screenshots
 
-*Coming soon - screenshots will be added once the app is deployed*
+![Screenshot_20250810_130549_com meladna launch_pad](https://github.com/user-attachments/assets/52eb3699-2ff7-4025-bf19-123f7bb8583d)
+
 
 ## Getting Started
 
