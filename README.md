@@ -1,15 +1,15 @@
-# Flutter Launch Pad Music App 🚀
+# Flutter Launch Pad Music App
 
 Welcome to **mel-adna's Flutter Launch Pad Music App!** 
 This immersive musical experience allows you to dive into a world of unique sounds through interactive pads. Built with Flutter, this cross-platform app runs seamlessly on Android, iOS, and Web. It's not just an app; it's a gateway to exploring the power of Flutter development!
 
-## About This Project 🚀
+## About This Project
 
 Hey there! I'm mel-adna, and this is my Flutter Launch Pad application. This project represents my journey into Flutter development, showcasing the creation of an interactive music app that works across multiple platforms. Through building and enhancing this app, I've applied essential Flutter concepts and gained hands-on experience with real-world development challenges.
 
 This music app features interactive sound pads that create an engaging musical experience. It demonstrates Flutter's capability to build beautiful, responsive apps that work consistently across Android, iOS, and the web.
 
-## Features ✨
+## Features
 
 - **Interactive sound pads** for creating music with 4 different instrument categories (BASS, LEAD, SYNTH, DRUMS)
 - **Cross-platform compatibility** (Android, iOS, Web)
@@ -20,11 +20,11 @@ This music app features interactive sound pads that create an engaging musical e
 - **Animated glow effects** that pulse when pads are pressed
 - **Dark theme** with professional color schemes
 
-## Screenshots 📱
+## Screenshots
 
 *Coming soon - screenshots will be added once the app is deployed*
 
-## Getting Started 🚀
+## Getting Started
 
 ### Prerequisites
 
@@ -113,7 +113,7 @@ web/                        # Web-specific files
 - **AudioPlayers** - Audio playback functionality
 - **Custom Animations** - Smooth UI interactions
 
-## Contributing 🤝
+## Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -140,7 +140,7 @@ Contributions are welcome! Here's how you can help:
 - Add comments for complex logic
 - Test your changes on multiple platforms if possible
 
-## Future Enhancements 🔮
+## Future Enhancements
 
 - [ ] Recording functionality to save compositions
 - [ ] Loop/sequencer mode for automatic playback
@@ -150,17 +150,17 @@ Contributions are welcome! Here's how you can help:
 - [ ] Customizable pad layouts
 - [ ] MIDI controller support
 
-## License 📄
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments 🙏
+## Acknowledgments
 
 - Flutter team for the amazing framework
 - Material Design for the beautiful UI guidelines
 - The open-source community for inspiration and support
 
-## Connect with me 📬
+## Connect with me
 
 Want to learn more about this project or discuss Flutter development? Feel free to reach out and connect with me on my coding journey!
 
