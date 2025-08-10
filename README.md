@@ -74,7 +74,7 @@ flutter build ios --release
 flutter build web --release
 ```
 
-## Project Structure 📁
+## Project Structure
 
 ```
 lib/
@@ -104,7 +104,7 @@ web/                        # Web-specific files
 4. **Create music** by tapping multiple pads in sequence
 5. **Enjoy the visual effects** - each pad glows and animates when pressed
 
-## Technologies Used 🛠️
+## Technologies Used
 
 - **Flutter** - Cross-platform UI framework
 - **Dart** - Programming language
