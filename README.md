@@ -92,7 +92,7 @@ ios/                        # iOS-specific files
 web/                        # Web-specific files
 ```
 
-## How to Use 🎵
+## How to Use
 
 1. **Launch the app** on your device or emulator
 2. **Tap the colored pads** to play different sounds
